@@ -3,7 +3,7 @@ VALUES
   
   (1, 2, 'Vacunación', '2022-03-01'),
   (2, 2, 'Desparasitación', '2022-03-15'),
-  (3, 2, 'Chequeo general', '2022-04-02');
+  (3, 2, 'Chequeo general', '2022-04-02'),
   (4, 1, 'Vacunación', '2022-03-01'),
   (5, 1, 'Desparasitación', '2022-03-15'),
   (6, 1, 'Chequeo general', '2022-04-02'),
